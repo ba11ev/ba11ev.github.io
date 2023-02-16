@@ -1,0 +1,26 @@
+body{
+    /* width: auto; */
+    /* height: 100vh; */
+    background-color: antiquewhite;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+}
+input{
+    width: 50%;
+    /* padding: 15px; */
+    /* margin-bottom: 17px; */
+    /* outline: none; */
+    border: 1px solid #ccc;
+    /* box-sizing: border-box; */
+}
+
+.green{
+border: 2px solid green;
+
+}
+
+.red{
+border: 2px solid red;
+}
